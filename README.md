@@ -85,7 +85,6 @@ ________________________________________________________________________________
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-_____________________________________________________________________________________________________________________________________________________
 1.Software Developer
 
 Role: The primary role of a Software Developer is to design, build, and maintain software applications. Developers are responsible for implementing the technical aspects of a project, writing clean code, and integrating various system components.
